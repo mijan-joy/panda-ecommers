@@ -1,0 +1,34 @@
+.carousel-item{
+    background-color: #FEEAE9;
+    padding: 20px 40px;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.price{
+    color: #FF136F ;
+}
+.cat1{
+    background-color: #FF136F;
+}
+.cat2{
+    background-color: #3e13ff;
+}
+.cat3{
+    background-color: #eb8a0b;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
