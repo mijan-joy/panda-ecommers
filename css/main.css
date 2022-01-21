@@ -32,3 +32,27 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #e674a04f;
+}
+.social-icon a{
+    font-size: 20px;
+    color: #fff;
+    padding: 0 5px;
+    text-decoration: none;
+}
+.social-icon a:hover{
+    color:#FF136F ;
+}
+.copyright{
+    color: #000;
+    font-size: 14px;
+}
+.copyright a{
+    text-decoration: none;
+    color: #FF136F;
+    cursor: pointer;
+}
+
